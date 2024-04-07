@@ -1,0 +1,20 @@
+{
+  "name": "puzzle_game_with_zuhii_malakshah",
+  "version": "1.0.1",
+  "description": "in this project i created a amazing puzzle game project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zuhii Manzoor",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
